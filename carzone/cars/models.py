@@ -134,7 +134,7 @@ class Car(models.Model):
         blank=True,
     )
     features = MultiSelectField(
-        max_length=100,
+        max_length=200,
         choices=features_choices,
     )
     body_style = models.CharField(
@@ -172,3 +172,6 @@ class Car(models.Model):
         default=datetime.now,
         blank=True
     )
+
+    def __str__(self):
+        return self.car_title
