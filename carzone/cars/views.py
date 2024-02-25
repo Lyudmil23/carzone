@@ -22,3 +22,11 @@ def car_details(request, id):
         'single_car': single_car,
     }
     return render(request, 'cars/car-details.html', data)
+
+
+def search(request):
+    cars = Car.objects.order_by('-created_date')
+    data = {
+        'cars': cars,
+    }
+    return render(request, 'cars/search.html', data)
