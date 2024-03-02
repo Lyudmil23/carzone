@@ -24,5 +24,6 @@ from django.conf import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('carzone.pages.urls')),
-    path('cars/', include('carzone.cars.urls'))
+    path('cars/', include('carzone.cars.urls')),
+    path('accounts/', include('carzone.accounts.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

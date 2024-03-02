@@ -39,9 +39,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'carzone.pages',
     'carzone.cars',
+    'carzone.accounts',
 
     'ckeditor',
     'django.contrib.humanize',
+
 ]
 
 MIDDLEWARE = [
