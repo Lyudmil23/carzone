@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'carzone.pages',
     'carzone.cars',
     'carzone.accounts',
+    'carzone.contacts',
 
     'ckeditor',
     'django.contrib.humanize',
