@@ -2,6 +2,8 @@ from django.contrib import messages, auth
 from django.contrib.auth.models import User
 from django.shortcuts import render, redirect
 
+from carzone.contacts.models import Contact
+
 
 def login(request):
     if request.method == 'POST':
@@ -52,10 +54,12 @@ def register(request):
         return render(request, 'accounts/register.html')
 
 
-
-
 def dashboard(request):
-    return render(request, 'accounts/dashboard.html')
+    user_inquiry = Contact.objects.order_by('-create_date').filter(user_id=request.user.id)
+    data = {
+        'inquires': user_inquiry
+    }
+    return render(request, 'accounts/dashboard.html', data)
 
 
 def logout(request):
