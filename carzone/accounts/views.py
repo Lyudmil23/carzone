@@ -1,4 +1,5 @@
 from django.contrib import messages, auth
+from django.contrib.auth.decorators import login_required
 from django.contrib.auth.models import User
 from django.shortcuts import render, redirect
 
@@ -54,6 +55,7 @@ def register(request):
         return render(request, 'accounts/register.html')
 
 
+@login_required(login_url='login')
 def dashboard(request):
     user_inquiry = Contact.objects.order_by('-create_date').filter(user_id=request.user.id)
     data = {
