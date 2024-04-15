@@ -1,0 +1,550 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-02-15T08:42:40.489Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Team object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-02-15T08:53:05.602Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Niki",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-02-15T08:56:00.727Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Niki",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-02-15T08:57:13.650Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Martin",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-02-15T08:58:21.857Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Stone",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-02-15T08:59:06.438Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Brandon",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-02-15T08:59:58.358Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "John",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-02-15T09:00:53.775Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Michelle",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-02-19T08:06:27.246Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Car object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-02-19T08:13:10.621Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Car object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-02-19T08:19:24.534Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Car object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-02-19T08:39:10.495Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "Car object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-02-21T08:28:45.843Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-02-21T08:32:22.141Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "2017 Ford F-250 Super Duty",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-02-21T08:33:15.097Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "2017 Ferrari 488 GTB",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-02-21T10:27:18.349Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "4",
+        "object_repr": "2017 Jaguar F-PACE",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Car photo 4\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-03-09T14:22:32.815Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "localhost:8000",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$41pfEPoRXjJaxf0QjEGc0r$AOjrj0JOqSiTx2148HJzg4y/OXwG/FTVc1TRbCNrQeI=",
+        "last_login": "2024-03-30T11:42:01.932Z",
+        "is_superuser": true,
+        "username": "lyudmil",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-02-15T08:20:57.640Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$600000$p5hjdwGGsPrYHkSj2CsteY$iuvIOkO4BRWromZz0qmbuR0SW43hZqjKDd4MYh3tY7g=",
+        "last_login": "2024-03-04T04:37:57.797Z",
+        "is_superuser": false,
+        "username": "joe",
+        "first_name": "Joe",
+        "last_name": "Simpson",
+        "email": "joe@mail.bg",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2024-03-04T04:37:56.672Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4nxrhjeuea1skvqlazmxu96o8vdaq6v1",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1raX2N:VZK_HUWIq7693FADD1HQwNy7GJpX5opC2Ef65iQJ-wI",
+        "expire_date": "2024-02-29T08:24:07.172Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "63qfibhecv8a0norskmd4vqkows39v15",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1ravZf:yKWCsO8ObGzjAdjzoR51b5WhRMKUhQSmH6w-AfCNNyY",
+        "expire_date": "2024-03-01T10:36:07.144Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "6xneweb4b8jklbilizbn0i115ksx7w4d",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rfxpb:llxgzBZyUsZQB5JbPp-4xc1KacKkvVpvM5Z-Fcz6HcA",
+        "expire_date": "2024-03-15T08:01:23.130Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "b2hvovt58y74rkcxfoamc41iosge9rw4",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rbjJa:ZF3aQdC4jI0e0JyG7Y2ph27IOz0FuBds8vO31rHTdSg",
+        "expire_date": "2024-03-03T15:42:50.672Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "i0ttx15zuvom1c5fzu2u0g03et99lawq",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rchkG:6d5YCjgogFZTBQtfpE5H_ug5l3H0fZczKmYMBe92CSM",
+        "expire_date": "2024-03-06T08:14:24.293Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "r8rxu19it73kepvspnfd155h75a89rfu",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rqX61:N9F0kFFByeo-QkFDUbRjz4qR2PZPUjO1KZ6LmwDi2pE",
+        "expire_date": "2024-04-13T11:42:01.995Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "thlizpoxx3g44f8ibv046k5dtd02mklj",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rbyVe:LgpWVDDsB-rbRf2SHtuSyq49-e-STZlXFSWTZBneDyY",
+        "expire_date": "2024-03-04T07:56:18.729Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "w5j41283f6tyhoaz67rsv4bn80ofyd6h",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rfy7Y:BcqJJUGjiIOZPqAYyQ98Z3FbgO_un2qIFQDhGBqTlg4",
+        "expire_date": "2024-03-15T08:19:56.727Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xwv92k6rat997wvzrtdcx875qvgngcr6",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAURP-FtSFwoTxcuvcbyIWLUjWQlHZl_Hdp0oUuZ86ZebOA21rC1vMSZmJnJtnpt4uYnrnugB5Y742nVtdljnxX-EE7vzbKr8vh_h0U7GWslcSoFBg9WaGMnxxZKdBHGSEDogb0BBGSy-StM0O8OaVHUFYYMsg-X7oyNxE:1rfxVF:aTNAp5nqLAE1IxcX2ZJMfzj6NyYamWZWNiDX_0T7Y3c",
+        "expire_date": "2024-03-15T07:40:21.878Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "zvx52w3pexl03218dzmqm3d2g80pgzav",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pAZCogu3XuGZhgGqRpISrsy3l2bdKHb_977LzXSupRx7TKPU1JnZdThd4vED6kbSHeqt6a51WWeot4UvdOury3J87K7fweFevnWg2NKBhFDYO-MtSwZcrIZrWR3AhSCcPTBgjhK6CWCY-sITUAPMKj3B9fDNyc:1rh05N:gtIvKW-55SMR2cfV2mk5SwA97DOLi6aVnMg2JvX7Row",
+        "expire_date": "2024-03-18T04:37:57.834Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 2,
+    "fields": {
+        "first_name": "Martin",
+        "last_name": "Smith",
+        "designation": "Founder",
+        "photo": "photos/2024/02/15/avatar-11.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_at": "2024-02-15T08:57:13.641Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 3,
+    "fields": {
+        "first_name": "Stone",
+        "last_name": "Carolyn",
+        "designation": "Creative Director",
+        "photo": "photos/2024/02/15/avatar-9.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_at": "2024-02-15T08:58:21.846Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 4,
+    "fields": {
+        "first_name": "Brandon",
+        "last_name": "Miller",
+        "designation": "Co-Founder",
+        "photo": "photos/2024/02/15/avatar-1.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_at": "2024-02-15T08:59:06.430Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 5,
+    "fields": {
+        "first_name": "John",
+        "last_name": "Doe",
+        "designation": "CEO",
+        "photo": "photos/2024/02/15/avatar-12.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_at": "2024-02-15T08:59:58.349Z"
+    }
+},
+{
+    "model": "pages.team",
+    "pk": 6,
+    "fields": {
+        "first_name": "Michelle",
+        "last_name": "Nelson",
+        "designation": "Support Manager",
+        "photo": "photos/2024/02/15/avatar-10.jpg",
+        "facebook_link": "https://facebook.com",
+        "twitter_link": "https://twitter.com",
+        "google_plus_link": "https://google.com",
+        "created_at": "2024-02-15T09:00:53.766Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 1,
+    "fields": {
+        "car_title": "2017 Ferrari 488 GTB",
+        "state": "TX",
+        "city": "Austin",
+        "color": "White",
+        "model": "488 GTB",
+        "year": 2017,
+        "condition": "Used",
+        "price": 41000,
+        "description": "<p>The <strong>Ferrari 488</strong> (Type F142M) is a <a href=\"https://en.wikipedia.org/wiki/Rear_mid-engine,_rear-wheel_drive_layout\" title=\"Rear mid-engine, rear-wheel drive layout\">mid-engine</a> <a href=\"https://en.wikipedia.org/wiki/Sports_car\" title=\"Sports car\">sports car</a> produced by the Italian automobile manufacturer <a href=\"https://en.wikipedia.org/wiki/Ferrari\" title=\"Ferrari\">Ferrari</a>. The car replaced the <a href=\"https://en.wikipedia.org/wiki/Ferrari_458\" title=\"Ferrari 458\">458</a>, being the first mid-engine Ferrari to use a turbocharged V8 since the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F40\" title=\"Ferrari F40\">F40</a>. It was succeeded by the <a href=\"https://en.wikipedia.org/wiki/Ferrari_F8\" title=\"Ferrari F8\">Ferrari F8</a>.</p>\r\n\r\n<p>The car is powered by a 3.9-litre <a href=\"https://en.wikipedia.org/wiki/Twin-turbocharged\" title=\"Twin-turbocharged\">twin-turbocharged</a> <a href=\"https://en.wikipedia.org/wiki/V8_engine\" title=\"V8 engine\">V8 engine</a>, smaller in displacement but generating a higher power output than the 458&#39;s <a href=\"https://en.wikipedia.org/wiki/Naturally_aspirated_engine\" title=\"Naturally aspirated engine\">naturally aspirated engine</a>. The 488 GTB was named &quot;The Supercar of the Year 2015&quot; by car magazine <em><a href=\"https://en.wikipedia.org/wiki/Top_Gear_(magazine)\" title=\"Top Gear (magazine)\">Top Gear</a></em>, as well as becoming <em><a href=\"https://en.wikipedia.org/wiki/Motor_Trend\" title=\"Motor Trend\">Motor Trend</a></em>&#39;s 2017 &quot;Best Driver&#39;s Car&quot;.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-7\">[7]</a> <a href=\"https://en.wikipedia.org/wiki/Jeremy_Clarkson\" title=\"Jeremy Clarkson\">Jeremy Clarkson</a> announced the 488 Pista as his 2019 Supercar of the Year.<a href=\"https://en.wikipedia.org/wiki/Ferrari_488#cite_note-8\">[8]</a></p>",
+        "car_photo": "photos/2024/02/19/1902536891.jpg",
+        "car_photo_1": "photos/2024/02/19/1902536917.jpg",
+        "car_photo_2": "photos/2024/02/19/1902537043.jpg",
+        "car_photo_3": "photos/2024/02/19/1902537077.jpg",
+        "car_photo_4": "photos/2024/02/19/1902537082.jpg",
+        "features": "Cruise Control,Audio Interface,Airbags,Alarm System,Power Steering,Wind Deflector,Bluetooth Handset",
+        "body_style": "Sport",
+        "engine": "3.4L Mid-Engine V6",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 10000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0ABc0191919APK134",
+        "mileage": 5,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": false,
+        "created_date": "2024-02-19T08:06:19Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 2,
+    "fields": {
+        "car_title": "Ford Edge 2017",
+        "state": "TX",
+        "city": "Dallas",
+        "color": "Black",
+        "model": "Edge",
+        "year": 2017,
+        "condition": "Used",
+        "price": 25000,
+        "description": "<p>The <strong>Ford Edge</strong> is a range of <a href=\"https://en.wikipedia.org/wiki/Crossover_(automobile)\" title=\"Crossover (automobile)\">crossover SUVs</a> manufactured by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a>. Introduced for the 2007 model year, the Edge is the first <a href=\"https://en.wikipedia.org/wiki/Mid-size_CUV\" title=\"Mid-size CUV\">mid-size CUV</a> marketed by Ford in North America; the model line is currently in its second generation. Deriving its name from a trim package of the <a href=\"https://en.wikipedia.org/wiki/Ford_Ranger_(Americas)\" title=\"Ford Ranger (Americas)\">Ford Ranger</a>, the Ford Edge is positioned between the <a href=\"https://en.wikipedia.org/wiki/Ford_Escape\" title=\"Ford Escape\">Ford Escape</a> and the <a href=\"https://en.wikipedia.org/wiki/Ford_Explorer\" title=\"Ford Explorer\">Ford Explorer</a> within the Ford product line.</p>\r\n\r\n<p>Sharing its underpinnings with the <a href=\"https://en.wikipedia.org/wiki/Ford_Fusion_(Americas)\" title=\"Ford Fusion (Americas)\">Ford Fusion sedan</a>, Ford has also produced the model line as the <a href=\"https://en.wikipedia.org/wiki/Lincoln_MKX\" title=\"Lincoln MKX\">Lincoln MKX</a> (since 2019, the Lincoln Nautilus). The second generation is also marketed by <a href=\"https://en.wikipedia.org/wiki/Ford_of_Europe\" title=\"Ford of Europe\">Ford of Europe</a>, positioned between the Kuga (Escape) and the Explorer PHEV.</p>",
+        "car_photo": "photos/2024/02/19/1901478607_OO1rCjO.jpg",
+        "car_photo_1": "photos/2024/02/19/1901478618_FUJaz9g.jpg",
+        "car_photo_2": "photos/2024/02/19/1901478646_9sqULGS.jpg",
+        "car_photo_3": "photos/2024/02/19/1901478672_OAujYTy.jpg",
+        "car_photo_4": "photos/2024/02/19/1901478687_gyma374.jpg",
+        "features": "Cruise Control,Audio Interface,Air Conditioning,Power Steering,Direct Fuel Injection,Wind Deflector",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 15000,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WPO1238OB755",
+        "mileage": 8,
+        "fuel_type": "Petrol",
+        "no_of_owners": "2",
+        "is_featured": true,
+        "created_date": "2024-02-19T08:11:42Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 3,
+    "fields": {
+        "car_title": "2017 Ford F-250 Super Duty",
+        "state": "NY",
+        "city": "Ohio",
+        "color": "Black",
+        "model": "F-250",
+        "year": 2017,
+        "condition": "Used",
+        "price": 30000,
+        "description": "<p>The <strong>Ford Super Duty</strong> (also known as the <strong>Ford F-Series Super Duty</strong>) is a series of heavy-duty pickup trucks produced by the <a href=\"https://en.wikipedia.org/wiki/Ford_Motor_Company\" title=\"Ford Motor Company\">Ford Motor Company</a> since the 1999 model year. Slotted above the consumer-oriented Ford <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">F-150</a>, the Super Duty trucks are an expansion of the <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series\" title=\"Ford F-Series\">Ford F-Series</a> range, from F-250 to the F-600. The F-250 through F-450 are offered as pickup trucks, while the F-350 through F-600 are offered as <a href=\"https://en.wikipedia.org/wiki/Chassis_cab\" title=\"Chassis cab\">chassis cabs</a>.</p>\r\n\r\n<p>Rather than adapting the lighter-duty F-150 truck for heavier use, Super Duty trucks have been designed as a dedicated variant of the Ford F-Series. The heavier-duty chassis components allow for heavier payloads and towing capabilities. With a <a href=\"https://en.wikipedia.org/wiki/Gross_vehicle_weight_rating\" title=\"Gross vehicle weight rating\">GVWR</a> over 8,500&nbsp;lb (3,900&nbsp;kg), Super Duty pickups are <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">Class 2 and 3</a> trucks, while chassis-cab trucks are offered in <a href=\"https://en.wikipedia.org/wiki/Truck_classification\" title=\"Truck classification\">Classes 3, 4, 5, and 6</a>. The model line also offers <a href=\"https://en.wikipedia.org/wiki/Ford_Power_Stroke_engine\" title=\"Ford Power Stroke engine\">Ford Power Stroke</a> V8 diesel engines as an option.</p>\r\n\r\n<p>Ford also offers a <a href=\"https://en.wikipedia.org/wiki/Ford_F-Series_(medium-duty_truck)\" title=\"Ford F-Series (medium-duty truck)\">medium-duty version of the F-Series</a> (F-650 and F-750), which is sometimes branded as the Super Duty, but is another chassis variant. The Super Duty pickup truck also served as the basis for the <a href=\"https://en.wikipedia.org/wiki/Ford_Excursion\" title=\"Ford Excursion\">Ford Excursion</a> full-sized SUV.</p>",
+        "car_photo": "photos/2024/02/19/1894300894.jpg",
+        "car_photo_1": "photos/2024/02/19/1894300905.jpg",
+        "car_photo_2": "photos/2024/02/19/1894300920.jpg",
+        "car_photo_3": "photos/2024/02/19/1900155012.jpg",
+        "car_photo_4": "photos/2024/02/19/1900155133.jpg",
+        "features": "Audio Interface,Airbags,ParkAssist,Power Steering,Reversing Camera",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Grey",
+        "miles": 14000,
+        "doors": "3",
+        "passengers": 2,
+        "vin_no": "WP0ABc0191919APK138",
+        "mileage": 10,
+        "fuel_type": "Diesel",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2024-02-19T08:19:17Z"
+    }
+},
+{
+    "model": "cars.car",
+    "pk": 4,
+    "fields": {
+        "car_title": "2017 Jaguar F-PACE",
+        "state": "TX",
+        "city": "Austin",
+        "color": "Green",
+        "model": "F-PACE",
+        "year": 2017,
+        "condition": "Used",
+        "price": 50000,
+        "description": "<p>The <strong>Jaguar F-Pace</strong> (X761) is a <a href=\"https://en.wikipedia.org/wiki/Compact_luxury_crossover_SUV\" title=\"Compact luxury crossover SUV\">compact luxury crossover SUV</a> made by <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"Jaguar Land Rover\">Jaguar Land Rover</a>, a British <a href=\"https://en.wikipedia.org/wiki/Car_manufacturer\" title=\"Car manufacturer\">car manufacturer</a>, under their <a href=\"https://en.wikipedia.org/wiki/Jaguar_marque\" title=\"Jaguar marque\">Jaguar marque</a>. It is the first model to be built by Jaguar in the SUV class. It was formally announced at the <a href=\"https://en.wikipedia.org/wiki/2015_North_American_International_Auto_Show\" title=\"2015 North American International Auto Show\">2015 North American International Auto Show</a> in Detroit, with sales commencing in 2016 following an unveiling at the <a href=\"https://en.wikipedia.org/wiki/2015_International_Motor_Show_Germany\" title=\"2015 International Motor Show Germany\">2015 International Motor Show Germany</a> in Frankfurt.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-4\">[4]</a></p>\r\n\r\n<p>The design of the F-Pace is based on the 2013 <a href=\"https://en.wikipedia.org/wiki/Jaguar_C-X17\" title=\"Jaguar C-X17\">Jaguar C-X17</a> concept car.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a> The 2017 Jaguar F-Pace has been named the honorary winner of the 2017 World Car of the Year and World Car Design of the Year Awards at the <a href=\"https://en.wikipedia.org/wiki/New_York_International_Auto_Show\" title=\"New York International Auto Show\">New York International Auto Show</a>.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-6\">[6]</a><a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-7\">[7]</a> The F-Pace is built at <a href=\"https://en.wikipedia.org/wiki/Jaguar_Land_Rover\" title=\"\">Jaguar Land Rover</a>&#39;s <a href=\"https://en.wikipedia.org/wiki/Solihull_plant\" title=\"Solihull plant\">Solihull plant</a> along with the <a href=\"https://en.wikipedia.org/wiki/Range_Rover_Velar\" title=\"Range Rover Velar\">Range Rover Velar</a> and employs an additional 1,300 workers.<a href=\"https://en.wikipedia.org/wiki/Jaguar_F-Pace#cite_note-BBC_News_120115-5\">[5]</a></p>",
+        "car_photo": "photos/2024/02/19/1902932503.jpg",
+        "car_photo_1": "photos/2024/02/19/1902932514.jpg",
+        "car_photo_2": "photos/2024/02/19/1902932528.jpg",
+        "car_photo_3": "photos/2024/02/19/1902932542.jpg",
+        "car_photo_4": "",
+        "features": "Cruise Control,Audio Interface,Alarm System,ParkAssist,Reversing Camera,Auto Start/Stop",
+        "body_style": "SUV",
+        "engine": "3.4L Mid-Engine V7",
+        "transmission": "Automatic",
+        "interior": "Black",
+        "miles": 12500,
+        "doors": "5",
+        "passengers": 5,
+        "vin_no": "WP0ABc0191919APK101",
+        "mileage": 7,
+        "fuel_type": "Petrol",
+        "no_of_owners": "1",
+        "is_featured": true,
+        "created_date": "2024-02-19T08:39:08Z"
+    }
+},
+{
+    "model": "sites.site",
+    "fields": {
+        "domain": "localhost:8000",
+        "name": "localhost:8000"
+    }
+}
+]
